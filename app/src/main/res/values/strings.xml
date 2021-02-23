@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="logo_dec">This is my las vegas logo</string>
+    <string name="image_dec">this is dice images</string>
+    <string name="button_dec">this is button dec</string>
+    <string name="textview_dec">this is textview dec</string>
+</resources>
